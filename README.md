@@ -1,17 +1,17 @@
-# DegenToken for Degen Gaming
+# RangeGamingToken for Educational Purposes
 
-DegenToken is an ERC-20 token designed for the Degen Gaming community. It allows gamers to earn rewards, purchase items, and enhance their engagement within the gaming ecosystem directly on the Ethereum blockchain.
+RangeGamingToken is an ERC-20 token designed for educational purposes, specifically demonstrating the functionalities of minting, transferring, redeeming, and burning tokens within a controlled environment. This token is part of a project aimed at teaching blockchain development and smart contract interactions on the Ethereum blockchain.
 
 ## Description
 
-DegenToken (DGN) facilitates a dynamic interaction within Degen Gaming by providing functionalities such as minting, transferring, redeeming for in-game items, and token burning. This project leverages blockchain technology to incentivize gaming achievements and loyalty, thereby enriching the player's experience and interaction within the game.
+RangeGamingToken (DGN) facilitates learning by providing a practical example of how to implement various ERC-20 token functions such as minting new tokens, transferring tokens between participants, redeeming tokens for in-game items, and burning tokens. This project helps students understand the core concepts of blockchain technology and smart contract development.
 
 ## Getting Started
 
 ### Installing
 
-* To interact with DegenToken, you will need to use the Remix IDE, an open-source web application for Ethereum development.
-* Visit [Remix IDE](https://remix.ethereum.org) and load the DegenToken smart contract code.
+* To interact with RangeGamingToken, you will need to use the Remix IDE, an open-source web application for Ethereum development.
+* Visit [Remix IDE](https://remix.ethereum.org) and load the RangeGamingToken smart contract code.
 * Compile and deploy the smart contract on the Ethereum testnet (such as Rinkeby) using the Remix environment.
 
 ```solidity
